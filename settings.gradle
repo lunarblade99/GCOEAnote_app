@@ -1,0 +1,2 @@
+rootProject.name='GCOEA-Note'
+include ':app'
